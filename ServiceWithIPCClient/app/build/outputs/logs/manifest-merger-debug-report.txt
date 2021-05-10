@@ -1,0 +1,184 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Mora\AndroidStudioProjects\ServiceWithIPCExampleClient\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from C:\Users\Mora\AndroidStudioProjects\ServiceWithIPCExampleClient\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from C:\Users\Mora\AndroidStudioProjects\ServiceWithIPCExampleClient\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from C:\Users\Mora\AndroidStudioProjects\ServiceWithIPCExampleClient\app\src\main\AndroidManifest.xml:2:1-32:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\Mora\.gradle\caches\transforms-1\files-1.1\recyclerview-1.0.0.aar\88521d70ff9e8ee211fbcc371b58c182\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Mora\.gradle\caches\transforms-1\files-1.1\legacy-support-core-ui-1.0.0.aar\ae56257a7d12032a0e7af8da2b88db9e\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Mora\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0.aar\34467d2bc36ffc42b5ef22121c52cc2d\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Mora\.gradle\caches\transforms-1\files-1.1\constraintlayout-1.1.3.aar\439e12558b2ac9bdaa1a05dc13a07ea4\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\Mora\.gradle\caches\transforms-1\files-1.1\appcompat-1.2.0.aar\4e5719336ffa56472a19db510bb42923\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Mora\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0.aar\3fbc92da6d112685c2b02783334790c1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Mora\.gradle\caches\transforms-1\files-1.1\fragment-1.1.0.aar\b554283bdbb9066e261f69bcfb06242b\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Mora\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\d1936bfef475708271b4b748e81070ec\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Mora\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0.aar\0d2e0b5e9d417ce8ac4432b7502ac5af\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\Mora\.gradle\caches\transforms-1\files-1.1\print-1.0.0.aar\013e7bc3e706de4166e7b152fba57cd2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\Mora\.gradle\caches\transforms-1\files-1.1\appcompat-resources-1.2.0.aar\8c0cca3d53d0a1c0252c14271886b861\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Mora\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0.aar\b41fe75705ea086c9dc34fdf329db0f1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Mora\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\000c3ad9c5c11c63c19e8e89934034a4\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Mora\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.0.0.aar\dc64f44f3fd1834e925007572b089415\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Mora\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-1.0.0.aar\4de670ff58f56587f3fff81196b8bbe8\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Mora\.gradle\caches\transforms-1\files-1.1\customview-1.0.0.aar\42fbe82f3ef9442638318f268900bd83\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Mora\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-1.0.0.aar\c1c353d50f741d3339840cd6bf6b8506\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Mora\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-1.0.0.aar\751fccbc7b36defe4069cf57e2f19289\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Mora\.gradle\caches\transforms-1\files-1.1\activity-1.0.0.aar\050b2c7b2fcebadd8655583a05e992a6\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Mora\.gradle\caches\transforms-1\files-1.1\vectordrawable-animated-1.1.0.aar\a8a21aac313da617c6d7b171ac3c3779\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Mora\.gradle\caches\transforms-1\files-1.1\vectordrawable-1.1.0.aar\79dde697d69126496c186ca15a7e21c2\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.3.0] C:\Users\Mora\.gradle\caches\transforms-1\files-1.1\core-1.3.0.aar\40f515a873ad1c6d122925e4033d9048\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Mora\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0.aar\0ff572eef61025b388697079292224b2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Mora\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0.aar\c555374fbe7111184993c3430d87ace5\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Mora\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.1.0.aar\de7a387d7aebd4f27259c216ff680868\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Mora\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\cade5dac89be12a87e82209487b64245\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Mora\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0.aar\e5b43159806f5dcce3d141810c687617\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Mora\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0.aar\f884030162f5069551cd674245a87a5a\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\Mora\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.1.0.aar\9e57127bd3b4fdf944f540cf5b73d306\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Mora\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.1.0.aar\9203aa3b6e4a13d690af178cebb44f9e\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Mora\.gradle\caches\transforms-1\files-1.1\savedstate-1.0.0.aar\8ff505ae1b145c79f9b6936f52bf03c1\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Users\Mora\AndroidStudioProjects\ServiceWithIPCExampleClient\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from C:\Users\Mora\AndroidStudioProjects\ServiceWithIPCExampleClient\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from C:\Users\Mora\AndroidStudioProjects\ServiceWithIPCExampleClient\app\src\main\AndroidManifest.xml:2:1-32:12
+	package
+		ADDED from C:\Users\Mora\AndroidStudioProjects\ServiceWithIPCExampleClient\app\src\main\AndroidManifest.xml:3:5-49
+		INJECTED from C:\Users\Mora\AndroidStudioProjects\ServiceWithIPCExampleClient\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Mora\AndroidStudioProjects\ServiceWithIPCExampleClient\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\Mora\AndroidStudioProjects\ServiceWithIPCExampleClient\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from C:\Users\Mora\AndroidStudioProjects\ServiceWithIPCExampleClient\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Mora\AndroidStudioProjects\ServiceWithIPCExampleClient\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Mora\AndroidStudioProjects\ServiceWithIPCExampleClient\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from C:\Users\Mora\AndroidStudioProjects\ServiceWithIPCExampleClient\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from C:\Users\Mora\AndroidStudioProjects\ServiceWithIPCExampleClient\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Mora\AndroidStudioProjects\ServiceWithIPCExampleClient\app\src\main\AndroidManifest.xml
+queries
+ADDED from C:\Users\Mora\AndroidStudioProjects\ServiceWithIPCExampleClient\app\src\main\AndroidManifest.xml:7:5-9:15
+package
+ADDED from C:\Users\Mora\AndroidStudioProjects\ServiceWithIPCExampleClient\app\src\main\AndroidManifest.xml:8:9-71
+	android:name
+		ADDED from C:\Users\Mora\AndroidStudioProjects\ServiceWithIPCExampleClient\app\src\main\AndroidManifest.xml:8:18-68
+uses-permission#course.examples.Services.KeyService.GEN_ID
+ADDED from C:\Users\Mora\AndroidStudioProjects\ServiceWithIPCExampleClient\app\src\main\AndroidManifest.xml:11:5-82
+	android:name
+		ADDED from C:\Users\Mora\AndroidStudioProjects\ServiceWithIPCExampleClient\app\src\main\AndroidManifest.xml:11:22-79
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Mora\AndroidStudioProjects\ServiceWithIPCExampleClient\app\src\main\AndroidManifest.xml:12:5-67
+	android:name
+		ADDED from C:\Users\Mora\AndroidStudioProjects\ServiceWithIPCExampleClient\app\src\main\AndroidManifest.xml:12:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\Mora\AndroidStudioProjects\ServiceWithIPCExampleClient\app\src\main\AndroidManifest.xml:13:5-79
+	android:name
+		ADDED from C:\Users\Mora\AndroidStudioProjects\ServiceWithIPCExampleClient\app\src\main\AndroidManifest.xml:13:22-76
+application
+ADDED from C:\Users\Mora\AndroidStudioProjects\ServiceWithIPCExampleClient\app\src\main\AndroidManifest.xml:15:5-30:19
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Mora\.gradle\caches\transforms-1\files-1.1\constraintlayout-1.1.3.aar\439e12558b2ac9bdaa1a05dc13a07ea4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Mora\.gradle\caches\transforms-1\files-1.1\constraintlayout-1.1.3.aar\439e12558b2ac9bdaa1a05dc13a07ea4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.3.0] C:\Users\Mora\.gradle\caches\transforms-1\files-1.1\core-1.3.0.aar\40f515a873ad1c6d122925e4033d9048\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.0] C:\Users\Mora\.gradle\caches\transforms-1\files-1.1\core-1.3.0.aar\40f515a873ad1c6d122925e4033d9048\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Mora\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.1.0.aar\de7a387d7aebd4f27259c216ff680868\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Mora\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.1.0.aar\de7a387d7aebd4f27259c216ff680868\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.0] C:\Users\Mora\.gradle\caches\transforms-1\files-1.1\core-1.3.0.aar\40f515a873ad1c6d122925e4033d9048\AndroidManifest.xml:24:18-86
+	android:icon
+		ADDED from C:\Users\Mora\AndroidStudioProjects\ServiceWithIPCExampleClient\app\src\main\AndroidManifest.xml:17:9-45
+	android:allowBackup
+		ADDED from C:\Users\Mora\AndroidStudioProjects\ServiceWithIPCExampleClient\app\src\main\AndroidManifest.xml:16:9-36
+activity#course.examples.Services.KeyClient.songInfoActivity
+ADDED from C:\Users\Mora\AndroidStudioProjects\ServiceWithIPCExampleClient\app\src\main\AndroidManifest.xml:18:9-20:20
+	android:theme
+		ADDED from C:\Users\Mora\AndroidStudioProjects\ServiceWithIPCExampleClient\app\src\main\AndroidManifest.xml:19:13-69
+	android:name
+		ADDED from C:\Users\Mora\AndroidStudioProjects\ServiceWithIPCExampleClient\app\src\main\AndroidManifest.xml:18:19-51
+activity#course.examples.Services.KeyClient.KeyServiceUser
+ADDED from C:\Users\Mora\AndroidStudioProjects\ServiceWithIPCExampleClient\app\src\main\AndroidManifest.xml:21:9-29:20
+	android:label
+		ADDED from C:\Users\Mora\AndroidStudioProjects\ServiceWithIPCExampleClient\app\src\main\AndroidManifest.xml:23:13-45
+	android:name
+		ADDED from C:\Users\Mora\AndroidStudioProjects\ServiceWithIPCExampleClient\app\src\main\AndroidManifest.xml:22:13-43
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Mora\AndroidStudioProjects\ServiceWithIPCExampleClient\app\src\main\AndroidManifest.xml:24:13-28:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Mora\AndroidStudioProjects\ServiceWithIPCExampleClient\app\src\main\AndroidManifest.xml:25:17-69
+	android:name
+		ADDED from C:\Users\Mora\AndroidStudioProjects\ServiceWithIPCExampleClient\app\src\main\AndroidManifest.xml:25:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Mora\AndroidStudioProjects\ServiceWithIPCExampleClient\app\src\main\AndroidManifest.xml:27:17-77
+	android:name
+		ADDED from C:\Users\Mora\AndroidStudioProjects\ServiceWithIPCExampleClient\app\src\main\AndroidManifest.xml:27:27-74
+uses-sdk
+INJECTED from C:\Users\Mora\AndroidStudioProjects\ServiceWithIPCExampleClient\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Mora\AndroidStudioProjects\ServiceWithIPCExampleClient\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Mora\AndroidStudioProjects\ServiceWithIPCExampleClient\app\src\main\AndroidManifest.xml
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\Mora\.gradle\caches\transforms-1\files-1.1\recyclerview-1.0.0.aar\88521d70ff9e8ee211fbcc371b58c182\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\Mora\.gradle\caches\transforms-1\files-1.1\recyclerview-1.0.0.aar\88521d70ff9e8ee211fbcc371b58c182\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Mora\.gradle\caches\transforms-1\files-1.1\legacy-support-core-ui-1.0.0.aar\ae56257a7d12032a0e7af8da2b88db9e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Mora\.gradle\caches\transforms-1\files-1.1\legacy-support-core-ui-1.0.0.aar\ae56257a7d12032a0e7af8da2b88db9e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Mora\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0.aar\34467d2bc36ffc42b5ef22121c52cc2d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Mora\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0.aar\34467d2bc36ffc42b5ef22121c52cc2d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Mora\.gradle\caches\transforms-1\files-1.1\constraintlayout-1.1.3.aar\439e12558b2ac9bdaa1a05dc13a07ea4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Mora\.gradle\caches\transforms-1\files-1.1\constraintlayout-1.1.3.aar\439e12558b2ac9bdaa1a05dc13a07ea4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\Mora\.gradle\caches\transforms-1\files-1.1\appcompat-1.2.0.aar\4e5719336ffa56472a19db510bb42923\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\Mora\.gradle\caches\transforms-1\files-1.1\appcompat-1.2.0.aar\4e5719336ffa56472a19db510bb42923\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Mora\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0.aar\3fbc92da6d112685c2b02783334790c1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Mora\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0.aar\3fbc92da6d112685c2b02783334790c1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Mora\.gradle\caches\transforms-1\files-1.1\fragment-1.1.0.aar\b554283bdbb9066e261f69bcfb06242b\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Mora\.gradle\caches\transforms-1\files-1.1\fragment-1.1.0.aar\b554283bdbb9066e261f69bcfb06242b\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Mora\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\d1936bfef475708271b4b748e81070ec\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Mora\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\d1936bfef475708271b4b748e81070ec\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Mora\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0.aar\0d2e0b5e9d417ce8ac4432b7502ac5af\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Mora\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0.aar\0d2e0b5e9d417ce8ac4432b7502ac5af\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Mora\.gradle\caches\transforms-1\files-1.1\print-1.0.0.aar\013e7bc3e706de4166e7b152fba57cd2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Mora\.gradle\caches\transforms-1\files-1.1\print-1.0.0.aar\013e7bc3e706de4166e7b152fba57cd2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\Mora\.gradle\caches\transforms-1\files-1.1\appcompat-resources-1.2.0.aar\8c0cca3d53d0a1c0252c14271886b861\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\Mora\.gradle\caches\transforms-1\files-1.1\appcompat-resources-1.2.0.aar\8c0cca3d53d0a1c0252c14271886b861\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Mora\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0.aar\b41fe75705ea086c9dc34fdf329db0f1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Mora\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0.aar\b41fe75705ea086c9dc34fdf329db0f1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Mora\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\000c3ad9c5c11c63c19e8e89934034a4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Mora\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\000c3ad9c5c11c63c19e8e89934034a4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Mora\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.0.0.aar\dc64f44f3fd1834e925007572b089415\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Mora\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.0.0.aar\dc64f44f3fd1834e925007572b089415\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Mora\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-1.0.0.aar\4de670ff58f56587f3fff81196b8bbe8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Mora\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-1.0.0.aar\4de670ff58f56587f3fff81196b8bbe8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Mora\.gradle\caches\transforms-1\files-1.1\customview-1.0.0.aar\42fbe82f3ef9442638318f268900bd83\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Mora\.gradle\caches\transforms-1\files-1.1\customview-1.0.0.aar\42fbe82f3ef9442638318f268900bd83\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Mora\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-1.0.0.aar\c1c353d50f741d3339840cd6bf6b8506\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Mora\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-1.0.0.aar\c1c353d50f741d3339840cd6bf6b8506\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Mora\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-1.0.0.aar\751fccbc7b36defe4069cf57e2f19289\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Mora\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-1.0.0.aar\751fccbc7b36defe4069cf57e2f19289\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Mora\.gradle\caches\transforms-1\files-1.1\activity-1.0.0.aar\050b2c7b2fcebadd8655583a05e992a6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Mora\.gradle\caches\transforms-1\files-1.1\activity-1.0.0.aar\050b2c7b2fcebadd8655583a05e992a6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Mora\.gradle\caches\transforms-1\files-1.1\vectordrawable-animated-1.1.0.aar\a8a21aac313da617c6d7b171ac3c3779\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Mora\.gradle\caches\transforms-1\files-1.1\vectordrawable-animated-1.1.0.aar\a8a21aac313da617c6d7b171ac3c3779\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Mora\.gradle\caches\transforms-1\files-1.1\vectordrawable-1.1.0.aar\79dde697d69126496c186ca15a7e21c2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Mora\.gradle\caches\transforms-1\files-1.1\vectordrawable-1.1.0.aar\79dde697d69126496c186ca15a7e21c2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.0] C:\Users\Mora\.gradle\caches\transforms-1\files-1.1\core-1.3.0.aar\40f515a873ad1c6d122925e4033d9048\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.0] C:\Users\Mora\.gradle\caches\transforms-1\files-1.1\core-1.3.0.aar\40f515a873ad1c6d122925e4033d9048\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Mora\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0.aar\0ff572eef61025b388697079292224b2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Mora\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0.aar\0ff572eef61025b388697079292224b2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Mora\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0.aar\c555374fbe7111184993c3430d87ace5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Mora\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0.aar\c555374fbe7111184993c3430d87ace5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Mora\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.1.0.aar\de7a387d7aebd4f27259c216ff680868\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Mora\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.1.0.aar\de7a387d7aebd4f27259c216ff680868\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Mora\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\cade5dac89be12a87e82209487b64245\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Mora\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\cade5dac89be12a87e82209487b64245\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Mora\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0.aar\e5b43159806f5dcce3d141810c687617\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Mora\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0.aar\e5b43159806f5dcce3d141810c687617\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Mora\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0.aar\f884030162f5069551cd674245a87a5a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Mora\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0.aar\f884030162f5069551cd674245a87a5a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\Mora\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.1.0.aar\9e57127bd3b4fdf944f540cf5b73d306\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\Mora\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.1.0.aar\9e57127bd3b4fdf944f540cf5b73d306\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Mora\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.1.0.aar\9203aa3b6e4a13d690af178cebb44f9e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Mora\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.1.0.aar\9203aa3b6e4a13d690af178cebb44f9e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Mora\.gradle\caches\transforms-1\files-1.1\savedstate-1.0.0.aar\8ff505ae1b145c79f9b6936f52bf03c1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Mora\.gradle\caches\transforms-1\files-1.1\savedstate-1.0.0.aar\8ff505ae1b145c79f9b6936f52bf03c1\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\Mora\AndroidStudioProjects\ServiceWithIPCExampleClient\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Mora\AndroidStudioProjects\ServiceWithIPCExampleClient\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Mora\AndroidStudioProjects\ServiceWithIPCExampleClient\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Mora\AndroidStudioProjects\ServiceWithIPCExampleClient\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Mora\AndroidStudioProjects\ServiceWithIPCExampleClient\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Mora\AndroidStudioProjects\ServiceWithIPCExampleClient\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Mora\AndroidStudioProjects\ServiceWithIPCExampleClient\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Mora\AndroidStudioProjects\ServiceWithIPCExampleClient\app\src\main\AndroidManifest.xml

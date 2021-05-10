@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Sun May 09 21:41:15 CDT 2021
+0.baseType=DIRECTORY
+0.base=C\:\\Users\\Mora\\AndroidStudioProjects\\ServiceWithIPCExampleService\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\out
+0.path=classes.dex
+0.set=DEX
+count=1
